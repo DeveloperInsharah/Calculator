@@ -1,5 +1,5 @@
 <h1>Hy! 👋🏻 I am Insharah Developer 🙂</h1>
-<h2>That is my <b>CALCULATOR 🖩</b></h2>
+<h2>That is my <b>CALCULATOR 🧮</b></h2>
 <h4><mark>That is a task of our internship with <b>Code Alpha</b></mark></h4>
 
 # Simple Calculator
